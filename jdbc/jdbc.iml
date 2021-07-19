@@ -10,6 +10,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dm8JdbcDriver18-8.1.1.49" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.21" level="project" />
     <orderEntry type="library" name="Maven: com.dameng:Dm8JdbcDriver18:8.1.1.49" level="project" />
     <orderEntry type="library" name="Maven: org.json:json:20140107" level="project" />
@@ -19,6 +20,5 @@
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.1.1" level="project" />
     <orderEntry type="library" name="Maven: net.sf.ezmorph:ezmorph:1.0.6" level="project" />
     <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.1" level="project" />
-    <orderEntry type="library" name="Dm8JdbcDriver18-8.1.1.49" level="project" />
   </component>
 </module>
