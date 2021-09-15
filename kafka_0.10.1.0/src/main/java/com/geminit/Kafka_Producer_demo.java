@@ -25,7 +25,7 @@ public class Kafka_Producer_demo {
         Producer producer = new Producer<>(config);
 
         List<KeyedMessage<String, byte[]>> messages = new ArrayList<>();
-        messages.add(new KeyedMessage<>("logs.user-v2", "system:services:appfabric", "123".getBytes()));
+        messages.add(new KeyedMessage<>("RealtimeTest", "system:services:appfabric", "123".getBytes()));
 
         producer.send(messages);
         System.out.println("Send.");

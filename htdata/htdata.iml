@@ -67,6 +67,7 @@
     <orderEntry type="library" name="Maven: org.bytedeco:arpack-ng:macosx-x86_64:3.7.0-1.5.4" level="project" />
     <orderEntry type="library" name="Maven: org.bytedeco:arpack-ng:windows-x86:3.7.0-1.5.4" level="project" />
     <orderEntry type="library" name="Maven: org.bytedeco:arpack-ng:windows-x86_64:3.7.0-1.5.4" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.30" level="project" />
     <orderEntry type="library" name="Maven: org.json:json:20140107" level="project" />
     <orderEntry type="library" name="Maven: net.sf.json-lib:json-lib:jdk15:2.4" level="project" />
     <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.8.0" level="project" />
