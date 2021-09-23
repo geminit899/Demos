@@ -9,8 +9,8 @@ import java.util.Arrays;
 import java.util.Properties;
 
 public class Kafka_Consumer {
-    private static String SERVER = "192.168.0.114:9092";
-    private static String TOPIC = "ttt";
+    private static String SERVER = "192.168.0.114:6667";
+    private static String TOPIC = "test";
 
     public static void main(String [] args){
         //这个是用来配置kafka的参数

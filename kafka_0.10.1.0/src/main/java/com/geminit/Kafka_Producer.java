@@ -13,7 +13,7 @@ import java.util.Properties;
 public class Kafka_Producer {
     private static Map<String, List<String>> messages = new HashMap<>();
     private static String SERVER = "192.168.0.114:6667";
-    private static String TOPIC = "ttt";
+    private static String TOPIC = "test";
     static {
         List<String> ttt = new ArrayList<>();
         ttt.add("1,1,1");
@@ -22,7 +22,7 @@ public class Kafka_Producer {
         ttt.add("2,2,2");
         ttt.add("2,2,2");
         ttt.add("2,2,2");
-        messages.put("ttt", ttt);
+        messages.put("test", ttt);
 
         List<String> sparkIn = new ArrayList<>();
         sparkIn.add("这，是test1.");
