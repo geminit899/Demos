@@ -16,6 +16,7 @@
         <module>flink</module>
         <module>elasticsearch</module>
         <module>hbase</module>
+        <module>hive</module>
         <module>jdbc</module>
         <module>hadoop</module>
         <module>py4j</module>
